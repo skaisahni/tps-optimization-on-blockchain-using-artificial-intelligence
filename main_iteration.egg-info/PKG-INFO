@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: main-iteration
+Version: 0.0.post0.dev3+g385de0e.dirty
+Summary: Add a short description here!
+Home-page: http://...
+Author: Bojan Miletic with UpAndRunning
+Author-email: bojan.miletic@upandrunningsoftware.com
+License: none
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
