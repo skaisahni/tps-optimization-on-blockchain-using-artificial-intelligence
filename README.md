@@ -4,7 +4,8 @@
   on node potential for that work to utilized the resources in the optimal way.
 * Version==1.0.0
 * Dependencies: Bitcin core; libboost; libevent;miniupnpc;libdb4.8;qt GUI;libqrencod;libzmq3;MxNet 
-* you could clone bitcoin core from bitcoin github. 
+* you could clone bitcoin core from bitcoin github.
+
 #Elements of This project:
 * paicoind is the bitcoin server binary
 * verification/server.py is the PAICoin server extension that re-runs and verifies ML iterations when a lucky nonce is found by a miner
