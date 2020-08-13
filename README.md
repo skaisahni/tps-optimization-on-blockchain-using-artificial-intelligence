@@ -8,7 +8,7 @@
 
 #Elements of This project:
 * paicoind is the bitcoin server binary
-* verification/server.py is the PAICoin server extension that re-runs and verifies ML iterations when a lucky nonce is found by a miner
-* worker.py contains the mining and training code executed by a miner; start_cluster.py is calling it to simulate several miners on the same machine
+* verification/server.py is the bitCoin server extension that re-runs and verifies ML iterations when a lucky nonce is found by a miner
+* worker.py contains the mining and training code executed by a miner;start_cluster.py is calling it to simulate several miners on the same machine
 * client.py is the client code that triggers the training and mining processes.
 
