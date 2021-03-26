@@ -9,7 +9,7 @@ livestats
 mxnet
 numpy
 redis==2.10.6
-pyyaml==3.12
+pyyaml==5.4
 bitcoin-python
 base58
 mock
